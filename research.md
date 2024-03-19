@@ -14,7 +14,7 @@ Microsoft
 Third-party
 ---
 - https://symflower.com/en/company/blog/2022/lsp-in-vscode-extension/
-
+- oldish Vue LSP https://github.com/vuejs/vetur/tree/master/server
 
 Natlang
 ---
